@@ -1,0 +1,6 @@
+{
+  "name": "ayden1234/twitch-streamer-website",
+  "timeout": 10000,
+  "connector": false,
+  "events": {}
+}
